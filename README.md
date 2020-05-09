@@ -16,17 +16,17 @@ an image-bearer’s imitation of illumination from an inky blackness
   * _tl;dr_: a blended (70% ridge regression +30% XGB regressor) model achieves 11.6% error rate on Ames, Iowa housing price test data (top 17% in Kaggle competition).
 
 ### Natural Language Processing and Deep Learning 
-1. Named Entity Recognition and Sentiment Analysis on President Trump’s Tweets to Test a Simple Stock Trading Strategy \[[paper]()\] \[[deck]()\]
+1. **Named Entity Recognition and Sentiment Analysis on President Trump’s Tweets to Test a Simple Stock Trading Strategy** \[[paper]()\] \[[deck]()\]
   * _tl;dr_: We find that, despite modest precision in the entity recognition task, strong recall allows us to recognize 82% of the organizations in our test set. Our best sentiment analysis model, a convolutional neural network, scored an 81% accuracy rate. Applying our trading strategy, we netted a 5% and 2% gain on Amazon and Google stock, respectively, and lost 3% on Facebook trading Trump’s sentiment as compared with a buy-and-hold strategy.
 
 ### Machine Learning at Scale
-1. Predicting Flight Delays using Weather Data \[[notebook]()\]
+1. **Predicting Flight Delays using Weather Data** \[[notebook]()\]
   * _tl;dr_: Gradient-boosted trees, which are amenable to parallelization, offered the best accuracy (80% F1-score) on predicting whether or not a flight would be weather delayed. We propose including our model in an ensemble of models that forecasts flight delays based on weather forecasts to improve scheduling.
 
 ## Python for Data Science
-1. Why We're Moving to Jupyter: An Exploratory Analysis of the Relationship between Housing Prices and Evictions in the U.S. with Python \[[paper]()\] \[[deck]()\] 
+1. **Why We're Moving to Jupyter: An Exploratory Analysis of the Relationship between Housing Prices and Evictions in the U.S. with Python** \[[paper]()\] \[[deck]()\] 
   * _tl;dr_: Regions where home ownership was relatively expensive weren't necessarily less affordable for renters. Expensive home ownership resulted in higher rental rate but wasn't associated with higher eviction rate. Between 2009-11, changes in rent were not positively correlated with changes in eviction rate. Changes in income also didn’t have the expected inverse relationship with eviction rate.
 
 ## Research Design and Applications for Data and Analysis
-1. Visual Storytelling through "The Strength of Absent Ties: Social Integration via Online Dating" \[[deck]()\] 
+1. **Visual Storytelling through "The Strength of Absent Ties: Social Integration via Online Dating"** \[[deck]()\] 
  
