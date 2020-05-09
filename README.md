@@ -29,4 +29,3 @@ an image-bearer’s imitation of illumination from an inky blackness
 
 ## Research Design and Applications for Data and Analysis
 **Visual Storytelling through "The Strength of Absent Ties: Social Integration via Online Dating"** \[[deck]()\] 
- 
