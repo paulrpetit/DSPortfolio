@@ -20,7 +20,7 @@ an image-bearer’s imitation of illumination from an inky blackness
 >_tl;dr_: We find that, despite modest precision in the entity recognition task, strong recall allows us to recognize 82% of the organizations in our test set. Our best sentiment analysis model, a convolutional neural network, scored an 81% accuracy rate. Applying our trading strategy, we netted a 5% and 2% gain on Amazon and Google stock, respectively, and lost 3% on Facebook trading Trump’s sentiment as compared with a buy-and-hold strategy.
 
 ### Machine Learning at Scale
-**Predicting Flight Delays using Weather Data** \[[notebook]()\]
+**Predicting Flight Delays using Weather Data** \[[notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5281736801604993/1818549097511472/5287691976773311/latest.html)\]
 > _tl;dr_: Gradient-boosted trees, which are amenable to parallelization, offered the best accuracy (80% F1-score) on predicting whether or not a flight would be weather delayed. We propose including our model in an ensemble of models that forecasts flight delays based on weather forecasts to improve scheduling.
 
 ## Python for Data Science
